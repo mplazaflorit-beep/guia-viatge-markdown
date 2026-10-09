@@ -1,7 +1,4 @@
-# hello-world
-This repository is for practicing the GitHub Flow
-
-## Mini Travel Guide: My Favorite City - Rome
+# Mini Travel Guide: My Favorite City - Rome
 
 Hello! My name is **Maria**. I am a creative, spontaneous, and passionate person who loves art, history, and photography. I enjoy discovering ancient places and soaking in the culture of vibrant cities.
 
