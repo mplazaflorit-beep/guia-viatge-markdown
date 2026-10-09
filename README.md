@@ -29,3 +29,9 @@ As a traveler who loves enjoying life, here are my top recommendations for Rome:
 ---
 
 ## Historic View
+![The Colosseum in Rome](https://hips.hearstapps.com/hmg-prod/images/elle-fin-de-semana-en-roma-1642526556.jpg?crop=0.659xw:1.00xh;0.171xw,0&resize=1200:*)
+
+---
+
+## Learn More
+You can explore more details about visiting Italy on the [Official Rome Tourism Website](https://www.turismoroma.it/es).
